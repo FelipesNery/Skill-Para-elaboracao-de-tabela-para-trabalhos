@@ -26,3 +26,5 @@ Antes de abordar sobre a Skill, é importante salientar alguns pontos.\
 Para testar, anexe em uma conversa nova uma tabela no formato xlsx ou csv e peça para criar uma tabela com os dados. Caso a IA não lhe pergunte nada e mostre uma tabela pronta, a Skill não foi ativada, caso ela pergunte como deve proceder nos próximos passos ela foi ativada.\
 No caso da não ativação, para que ela seja ativada basta pedir no chat que ela faça a tabela de acordo com a skill tabela científica r.
 
+## Utilizando no Browser 
+Caso você utilize a inteligência artificial em um browser, como Chrome, você pode colar o txt nas instruções do projeto e ao final, quando a tabela for criada, você solicita para a tabela ser criada em excel e você irá conseguir baixá-la.
